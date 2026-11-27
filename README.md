@@ -54,10 +54,6 @@ O projeto utiliza as seguintes bibliotecas:
 - Adafruit GFX Library
 - Adafruit SSD1306
 - PubSubClient
-- Wire
-- WiFi
-- time
-- string
 
 ## Arquitetura do sistema
 
