@@ -1,7 +1,13 @@
 
-# Caixa Inteligente de Medicamentos
+# 💊 Caixa Inteligente de Medicamentos
 
-Aplicação desenvolvida como projeto acadêmico para a disciplina de Objetos Inteligentes e Conectados, no curso de Análise e Desenvolvimento de Sistemas da Universidade Presbiteriana Mackenzie. Tem como objetivo auxiliar no gerenciamento de horários de medicamentos por meio de alertas visuais e sonoros, detecção de presença e confirmação da dose, utilizando ESP32 e comunicação MQTT.
+<p>
+  Aplicação desenvolvida como projeto acadêmico para a disciplina de
+  <strong>Objetos Inteligentes e Conectados</strong>, no curso de
+  <strong>Análise e Desenvolvimento de Sistemas</strong> da
+  <a href="https://www.mackenzie.br" target="_blank"><strong>Universidade Presbiteriana Mackenzie</strong></a>.
+  Tem como objetivo auxiliar no gerenciamento de horários de medicamentos por meio de alertas visuais e sonoros, detecção de presença e confirmação da dose.
+</p>
 
 **Desenvolvido por:** Nicoly Santos.
 
